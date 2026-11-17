@@ -11,7 +11,7 @@
             
             for (int i = 1; i <= 3; i++)
             {
-                Console.WriteLine($"\n--- Ingrese los datos para el Producto {i} ---");
+                Console.WriteLine($"\n-- Ingrese los datos para el Producto {i} --");
 
                 Console.Write("Ingrese el codigo: ");
                 string codigo = Console.ReadLine();
